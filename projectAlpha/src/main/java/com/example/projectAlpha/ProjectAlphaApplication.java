@@ -8,6 +8,7 @@ public class ProjectAlphaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProjectAlphaApplication.class, args);
+		System.out.println("Project Alpha build successfully");
 	}
 
 }
