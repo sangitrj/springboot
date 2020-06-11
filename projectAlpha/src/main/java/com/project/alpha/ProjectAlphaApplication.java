@@ -1,4 +1,4 @@
-package com.example.projectAlpha;
+package com.project.alpha;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
